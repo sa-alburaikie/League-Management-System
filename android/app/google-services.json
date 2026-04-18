@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227232661704",
+    "project_id": "leaguemanagementsystem",
+    "storage_bucket": "leaguemanagementsystem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227232661704:android:0e52734881eac83b11a5fd",
+        "android_client_info": {
+          "package_name": "com.example.hadramootleagues"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227232661704-1as1caihmaasda3lcahuu00cokgrikdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hadramootleagues",
+            "certificate_hash": "968fcbc99cb1daacb901e1a0f671919cd3ce14e4"
+          }
+        },
+        {
+          "client_id": "227232661704-33asbbd78kaj5va0q8nbgaqg08gcdcrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2oaaY4IpDfQKjjkwsQ6WRsrVIbC3DLxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227232661704-33asbbd78kaj5va0q8nbgaqg08gcdcrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

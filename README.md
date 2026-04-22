@@ -1,36 +1,36 @@
-# Vue.js E-Commerce Web Application
+# League Management System – Flutter App
 
 ## 📌 Overview
-A responsive e-commerce web application built using Vue.js with modern UI design and state management.  
-The project simulates a real online store experience.
+A mobile application built with Flutter and Firebase for managing football leagues in Hadramout.  
+The system supports multiple user roles and provides real-time league management features.
 
 ---
 
 ## 🚀 Features
-- Product categories system
-- Featured and new products sections
-- Product listing with dynamic UI
-- Shopping cart functionality
-- Contact section
-- Swiper-based product sliders
-- Fully responsive design
+- Role-based system (Players, Coaches, Managers, Officials, Fans)
+- Team management system
+- Match scheduling and organization
+- League administration tools
+- Google authentication login
+- Firebase real-time database integration
+- Live updates across users
 
 ---
 
 ## 🛠️ Technologies
-- Vue.js (Options API)
-- Pinia (State Management)
-- Vuetify (UI Framework)
-- Swiper.js
-- Firebase Hosting
+- Flutter (Dart)
+- Firebase
+- Firestore
+- Firebase Authentication
+- Google Sign-In
 - Git & GitHub
 
 ---
 
-## 🌐 Live Demo
-https://e-commerce-project-82d51.web.app/
+## 🔗 Live Demo
+https://leaguemanagementsystem.web.app/
 
 ---
 
 ## 🔗 Repository
-https://github.com/sa-alburaikie/e_commerce-web-store
+https://github.com/sa-alburaikie/League-Management-System

@@ -1,16 +1,36 @@
-# hadramootleagues
+# Vue.js E-Commerce Web Application
 
-A new Flutter project.
+## 📌 Overview
+A responsive e-commerce web application built using Vue.js with modern UI design and state management.  
+The project simulates a real online store experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Product categories system
+- Featured and new products sections
+- Product listing with dynamic UI
+- Shopping cart functionality
+- Contact section
+- Swiper-based product sliders
+- Fully responsive design
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies
+- Vue.js (Options API)
+- Pinia (State Management)
+- Vuetify (UI Framework)
+- Swiper.js
+- Firebase Hosting
+- Git & GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🌐 Live Demo
+https://e-commerce-project-82d51.web.app/
+
+---
+
+## 🔗 Repository
+https://github.com/sa-alburaikie/e_commerce-web-store
